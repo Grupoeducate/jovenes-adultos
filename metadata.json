@@ -1,0 +1,24 @@
+{
+  "schoolName": "ALFONSO LOPEZ PUMAREJO - SEDE HELIODORO PEÑA ( VALLE DEL CAUCA - CARTAGO )",
+  "schoolDane": "20240817",
+  "filters": {
+    "grades": [
+      "02",
+      "03",
+      "04",
+      "05"
+    ],
+    "groups": [
+      "01"
+    ],
+    "tests": [
+      "ALFA",
+      "BETA",
+      "DELTA"
+    ],
+    "jornadas": [
+      "JM",
+      "JT"
+    ]
+  }
+}
